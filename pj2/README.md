@@ -71,7 +71,6 @@
 ```bash
 PROJECT2
 ├── main.c
-├── main.exe
 ├── save_data.txt
 └── maps
     ├── 平凡之路.txt
